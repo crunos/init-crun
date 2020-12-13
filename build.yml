@@ -1,0 +1,5 @@
+image: crun
+org: crunos
+
+network: true
+disable-content-trust: true

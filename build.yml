@@ -1,5 +1,5 @@
 image: crun
-org: crunos
+org: crunosfs
 
 network: true
 disable-content-trust: true
